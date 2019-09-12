@@ -9,7 +9,7 @@ import info
 import test
 from telebot import types
 from emoji import emojize
-token = os.environ['TELEGRAM_TOKEN']
+token = os.environ['753564450:AAEOQJwK6m4MCMJGS7-gLANNN1s6OKa0dR4']
 bot = telebot.TeleBot(token)
 base=[]
 ban=['zombie']
